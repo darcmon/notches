@@ -2,7 +2,7 @@ from pydantic_settings import BaseSettings
 from typing import Optional
 
 class Settings(BaseSettings):
-    app_name: str = "Toku10 API"
+    app_name: str = "Notches API"
     debug: bool = False
     database_url: Optional[str] = None
     secret_key: str = "your-secret-key-here"

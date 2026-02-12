@@ -1,11 +1,11 @@
-# Toku10 - Full-Stack Monorepo
+# Notches - Full-Stack Monorepo
 
 A modern full-stack application with Vue.js frontend and Python FastAPI backend.
 
 ## Project Structure
 
 ```
-toku10/
+notches/
 ├── frontend/              # Vue.js frontend application
 │   ├── src/              # Source code
 │   ├── public/           # Static assets
