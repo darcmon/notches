@@ -1,5 +1,5 @@
 {
-    "name": "toku10-monorepo",
+    "name": "notches-monorepo",
     "version": "1.0.0",
     "private": true,
     "description": "Full-stack application with Vue.js frontend and Python backend",
